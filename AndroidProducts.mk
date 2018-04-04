@@ -15,3 +15,8 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_ms013g.mk
+
+COMMON_LUNCH_CHOICES := \
+    lineage_ms013g-user \
+    lineage_ms013g-userdebug \
+    lineage_ms013g-eng
