@@ -22,3 +22,5 @@ $(call inherit-product, device/samsung/ms013g/full_ms013g.mk)
 
 PRODUCT_DEVICE := ms013g
 PRODUCT_NAME := lineage_ms013g
+
+PRODUCT_GMS_CLIENTID_BASE := android-samsung
